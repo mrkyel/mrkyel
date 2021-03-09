@@ -7,3 +7,8 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/mrkyel/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.facebook.com/hangyeol.kim.7">
+    <img 
+        src="http://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/hangyeol.kim.7"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
