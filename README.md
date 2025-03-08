@@ -1,4 +1,4 @@
-## Mr.kyel : FrontEnd developer
+## Kale : FrontEnd developer
 
 현재 <b>프론트엔드 개발자</b>로 근무 중이며 새로운 도전을 늘 희망합니다.<br/>
 <b>React로 개발하는 것에 주로 익숙하며</b>, Typescript, Next.js, Jotai, Redux 등을 활용합니다.<br/>
